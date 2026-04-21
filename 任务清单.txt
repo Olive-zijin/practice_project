@@ -1,3 +1,3 @@
 小花来啦
 
-- [ ] 完成 GitHub Desktop 练习
+- [Y] 完成 GitHub Desktop 练习
